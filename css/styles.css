@@ -1,0 +1,66 @@
+.jumbo{
+    background-image: url(../img/landing.jpeg);
+    background-repeat: no-repeat;
+    height: 400px;
+    text-align: center;
+}
+.header{
+    font-size: 30px; 
+       color: white;
+       
+}
+.logo{
+        text-align: center;
+        size: 20px
+}
+.hour{
+    background-color: white;
+    height: 100px
+}
+.time{
+    background-color: orangered;
+    color: white;
+    height: 100px
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    }
+.sidees{
+margin-top: 10%
+}
+.drink{
+    margin-top: 10%
+    height: 200px;
+    }
+.btn{
+        color:red;
+      } 
+      .about{
+          font-size: 15px
+      }
+.get{
+    background-image: url(../img/subscribe.jpeg);
+    background-repeat: no-repeat;
+    height: 150px;
+    margin-top: 10%;
+    color: white;
+text-align: center;
+font-size: 30px;
+}
+.footer{
+    background-color: orangered;
+    color: white;
+    margin: auto;
+    height: 200px;
+
+}
+
+
+
+
+
+
+
